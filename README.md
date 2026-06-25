@@ -1,8 +1,8 @@
-# FinTrack ?? - Personal Finance Tracker
+# FinTrack 💰 - Personal Finance Tracker
 
 A full stack personal finance tracker application.
 
-## ?? Live Demo
+## 🌐 Live Demo
 - **Frontend:** [fintrack12311.netlify.app](https://fintrack12311.netlify.app)
 - **Backend API:** [fintrack-backend-production-9a96.up.railway.app](https://fintrack-backend-production-9a96.up.railway.app)
 
@@ -12,12 +12,12 @@ A full stack personal finance tracker application.
 - **Database:** MongoDB
 
 ## Features
-- ? User Authentication (Register/Login)
-- ? Income & Expense Tracking
-- ? Budget Management
-- ? Financial Reports
+- ✅ User Authentication (Register/Login)
+- ✅ Income & Expense Tracking
+- ✅ Budget Management
+- ✅ Financial Reports
 
 ## Project Structure
 fintrack-fullstack/
-+-- frontend/     (React + TypeScript)
-+-- backend/      (Express + MongoDB)
+├── frontend/     (React + TypeScript)
+└── backend/      (Express + MongoDB)
